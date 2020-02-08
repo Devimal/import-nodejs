@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "name": "import-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node \"--experimental-modules\" main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
